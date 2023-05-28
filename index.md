@@ -9,13 +9,12 @@ experience in designing information systems for various clients and contribute
 towards my organisation's success.
 
 #### Contact Information
--<a href="https://stackoverflow.com/users/12017769/dulangi-kanchana" target="_blank"><i class="fab fa-stack-overflow"> </i> </a>
--<a href="https://www.linkedin.com/in/dulangi-kanchana-176b2a112/" target="_blank"><i class="fab fa-linkedin-in"> </i> </a>
--<a href="https://scholar.google.com/citations?user=PzfCGkkAAAAJ&hl=en&oi=ao" target="_blank"><i class="fab fa-google"> </i> </a>
--<a href="https://kanchanardj.medium.com/" target="_blank"><i class="fa fa-medium"> </i> </a>
--<a href="https://www.youtube.com/@dulangikanchana8237" target="_blank"><i class="fab fa-youtube"> </i> </a>
-[![View on stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/12017769)](https://stackoverflow.com/users/12017769/dulangi-kanchana)
-<a href="https://stackoverflow.com/users/12017769/dulangi-kanchana" target="_blank"><img src="/assets/img/stackoverflow.svg" width="50" height="50"></a>
+
+<a href="https://stackoverflow.com/users/12017769/dulangi-kanchana" target="_blank"><img src="/assets/img/stackoverflow.svg" width="20" height="20"></a> [![View on stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/12017769)](https://stackoverflow.com/users/12017769/dulangi-kanchana) |
+<a href="https://www.linkedin.com/in/dulangi-kanchana-176b2a112/" target="_blank"><img src="/assets/img/linkedin.svg" width="20" height="20"></a> | 
+<a href="https://scholar.google.com/citations?user=PzfCGkkAAAAJ&hl=en&oi=ao" target="_blank"><img src="/assets/img/googlescholar.svg" width="20" height="20"></a> | 
+<a href="https://kanchanardj.medium.com/" target="_blank"><img src="/assets/img/medium.svg" width="20" height="20"></a> | 
+<a href="https://www.youtube.com/@dulangikanchana8237" target="_blank"><img src="/assets/img/youtube.svg" width="20" height="20"></a> |
 #### Deep Learning
 
 #### Building a Generative Adversarial Networks(GAN) for Masters assignment
