@@ -15,7 +15,7 @@ towards my organisation's success.
 -<a href="https://kanchanardj.medium.com/" target="_blank"><i class="fa fa-medium"> </i> </a>
 -<a href="https://www.youtube.com/@dulangikanchana8237" target="_blank"><i class="fab fa-youtube"> </i> </a>
 [![View on stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/12017769)](https://stackoverflow.com/users/12017769/dulangi-kanchana)
-![/assets/img/stackoverflow.svg](/assets/img/stackoverflow.svg)(https://stackoverflow.com/users/12017769/dulangi-kanchana)
+<img src="/assets/img/stackoverflow.svg" width="50" height="50"><a href="https://stackoverflow.com/users/12017769/dulangi-kanchana" target="_blank"></a>
 #### Deep Learning
 
 #### Building a Generative Adversarial Networks(GAN) for Masters assignment
