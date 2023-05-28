@@ -9,13 +9,12 @@ experience in designing information systems for various clients and contribute
 towards my organisation's success.
 
 #### Contact Information
--<i class="fa fa-stackoverflow"></i> https://stackoverflow.com/users/12017769/dulangi-kanchana
-- Stack overflow: [stackoverflow.com/users/12017769/dulangi-kanchana](https://stackoverflow.com/users/12017769/dulangi-kanchana)
-- Google scholar: [scholar.google.com/citations?user=PzfCGkkAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=PzfCGkkAAAAJ&hl=en&oi=ao)
-- ResearchGate: [researchgate.net/profile/J-Dulangi-Kanchana](https://www.researchgate.net/profile/J-Dulangi-Kanchana)
-- LinkedIn: [linkedin.com/in/dulangi-kanchana-176b2a112/](https://www.linkedin.com/in/dulangi-kanchana-176b2a112/)
-- Medium: [kanchanardj.medium.com/](https://kanchanardj.medium.com/)
-- Youtube: [youtube.com/@dulangikanchana8237](https://www.youtube.com/@dulangikanchana8237)
+-<a href="https://stackoverflow.com/users/12017769/dulangi-kanchana" target="_blank"><i class="fab fa-stack-overflow"> </i> </a>
+-<a href="https://www.linkedin.com/in/dulangi-kanchana-176b2a112/" target="_blank"><i class="fab fa-linkedin-in"> </i> </a>
+-<a href="https://scholar.google.com/citations?user=PzfCGkkAAAAJ&hl=en&oi=ao" target="_blank"><i class="fab fa-google"> </i> </a>
+-<a href="https://kanchanardj.medium.com/" target="_blank"><i class="fa fa-medium"> </i> </a>
+-<a href="https://www.youtube.com/@dulangikanchana8237" target="_blank"><i class="fab fa-youtube"> </i> </a>
+
 
 #### Deep Learning
 
