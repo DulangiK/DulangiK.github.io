@@ -14,7 +14,7 @@ towards my organisation's success.
 -<a href="https://scholar.google.com/citations?user=PzfCGkkAAAAJ&hl=en&oi=ao" target="_blank"><i class="fab fa-google"> </i> </a>
 -<a href="https://kanchanardj.medium.com/" target="_blank"><i class="fa fa-medium"> </i> </a>
 -<a href="https://www.youtube.com/@dulangikanchana8237" target="_blank"><i class="fab fa-youtube"> </i> </a>
-https://img.shields.io/stackexchange/stackoverflow/r/12017769
+[![View on stackoverflow](https://img.shields.io/stackexchange/stackoverflow/r/12017769)](https://stackoverflow.com/users/12017769/dulangi-kanchana)
 
 #### Deep Learning
 
