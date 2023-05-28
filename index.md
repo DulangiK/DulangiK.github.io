@@ -9,6 +9,7 @@ experience in designing information systems for various clients and contribute
 towards my organisation's success.
 
 #### Contact Information
+-<i class="fa fa-stackoverflow"></i> https://stackoverflow.com/users/12017769/dulangi-kanchana
 - Stack overflow: [stackoverflow.com/users/12017769/dulangi-kanchana](https://stackoverflow.com/users/12017769/dulangi-kanchana)
 - Google scholar: [scholar.google.com/citations?user=PzfCGkkAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=PzfCGkkAAAAJ&hl=en&oi=ao)
 - ResearchGate: [researchgate.net/profile/J-Dulangi-Kanchana](https://www.researchgate.net/profile/J-Dulangi-Kanchana)
