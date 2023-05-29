@@ -46,7 +46,7 @@ towards my organisation's success.</p>
 #### Conference proceedings
 
 <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>A Data Mining Approach for Early Prediction Of Academic Performance of Students </b></p><p style="font-size:9pt; font-color:black;"> IEEE TALE 2021| Central China Normal University, China </p>
-<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;">[Go to the article](https://www.researchgate.net/profile/J-Dulangi-Kanchana/publication/358098327_A_Data_Mining_Approach_for_Early_Prediction_Of_Academic_Performance_of_Students/links/63817b5bc2cb154d29299635/A-Data-Mining-Approach-for-Early-Prediction-Of-Academic-Performance-of-Students.pdf)</p>
+[Go to the article](https://www.researchgate.net/profile/J-Dulangi-Kanchana/publication/358098327_A_Data_Mining_Approach_for_Early_Prediction_Of_Academic_Performance_of_Students/links/63817b5bc2cb154d29299635/A-Data-Mining-Approach-for-Early-Prediction-Of-Academic-Performance-of-Students.pdf)
   
 <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>The Impact of Credits on Student Performance: A Case Study of Sri Lanka </b></p><p style="font-size:9pt; font-color:black;"> IEEE Integrated STEM Education Conference 2023 | John Hopkins University, USA </p> 
 <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;">[Go to the article](https://www.researchgate.net/publication/369173347_The_Impact_of_Credits_on_Student_Performance_A_Case_Study_of_Sri_Lanka)</p>
