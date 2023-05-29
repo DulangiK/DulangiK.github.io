@@ -46,7 +46,7 @@ towards my organisation's success.</p>
 #### Conference proceedings
 
 <p style="font-size:9pt; font-color:black;margin:0; padding-top:0;"><b>A Data Mining Approach for Early Prediction Of Academic Performance of Students </b></p>
-<br>
+<span style="font-size: .5em;">&nbsp;</span>
 <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"> J.Dulangi Kanchana, Gayashan Amarasinghe, Vishaka Nanayakkara, Amal Shehan Perera </p>
 <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"> IEEE TALE 2021| Central China Normal University, China </p>
 [Go to the article](https://www.researchgate.net/profile/J-Dulangi-Kanchana/publication/358098327_A_Data_Mining_Approach_for_Early_Prediction_Of_Academic_Performance_of_Students/links/63817b5bc2cb154d29299635/A-Data-Mining-Approach-for-Early-Prediction-Of-Academic-Performance-of-Students.pdf)
