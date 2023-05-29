@@ -40,9 +40,20 @@ towards my organisation's success.</p>
   <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>BSc (Honours) degree in Information Technology and Management </b></p><p style="font-size:9pt; font-color:black;"> University of Moratuwa | Jan 2016 - May 2020 </p>
    <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>MSc degree in Computer Science and Engineering specialising in Data Science</b></p><p style="font-size:9pt; font-color:black;"> University of Moratuwa | April 2021 - May 2023 </p> 
    <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>Master of Business Administration degree </b></p><p style="font-size:9pt; font-color:black;"> University of Brittany | February 2022 - July 2023 </p> 
+---
 
 #### Publications
 #### Conference proceedings
 
   <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>A Data Mining Approach for Early Prediction Of Academic Performance of Students </b></p><p style="font-size:9pt; font-color:black;"> IEEE TALE 2021| Central China Normal University, China </p>
+    <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>The Impact of Credits on Student Performance: A Case Study of Sri Lanka </b></p><p style="font-size:9pt; font-color:black;"> IEEE Integrated STEM Education Conference 2023 | John Hopkins University, USA </p> 
    <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>The Impact of Credits on Student Performance: A Case Study of Sri Lanka </b></p><p style="font-size:9pt; font-color:black;"> IEEE Integrated STEM Education Conference 2023 | John Hopkins University, USA </p> 
+   
+#### Extended Abstracts
+
+  <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>A Data Mining Approach for Early Prediction Of Academic Performance of Students </b></p><p style="font-size:9pt; font-color:black;"> IEEE TALE 2021| Central China Normal University, China </p>
+  
+   
+#### Journals
+
+  <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>A Data Mining Approach for Early Prediction Of Academic Performance of Students </b></p><p style="font-size:9pt; font-color:black;"> IEEE TALE 2021| Central China Normal University, China </p>
