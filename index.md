@@ -37,7 +37,7 @@ towards my organisation's success.</p>
 #### Education
 
 
-  <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>BSc (Honours) degree in Information Technology and Management </b></p><p style="font-size:9pt; font-color:black;"> University of Moratuwa | Jan 2016 - May 2020 </p>
+  <p style="font-size:9pt; font-color:black;margin-bottom: 3px;; padding-top:0;"><b>BSc (Honours) degree in Information Technology and Management </b></p><p style="font-size:9pt; font-color:black;"> University of Moratuwa | Jan 2016 - May 2020 </p>
    <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>MSc degree in Computer Science and Engineering specialising in Data Science</b></p><p style="font-size:9pt; font-color:black;"> University of Moratuwa | April 2021 - May 2023 </p> 
    <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>Master of Business Administration degree </b></p><p style="font-size:9pt; font-color:black;"> University of Brittany | February 2022 - July 2023 </p> 
 ---
