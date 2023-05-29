@@ -45,21 +45,30 @@ towards my organisation's success.</p>
 #### Publications
 #### Conference proceedings
 
-<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>A Data Mining Approach for Early Prediction Of Academic Performance of Students </b></p><p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"> IEEE TALE 2021| Central China Normal University, China </p>
+<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>A Data Mining Approach for Early Prediction Of Academic Performance of Students </b></p><p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"> J.Dulangi Kanchana, Gayashan Amarasinghe, Vishaka Nanayakkara, Amal Shehan Perera </p>
+<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"> IEEE TALE 2021| Central China Normal University, China </p>
 [Go to the article](https://www.researchgate.net/profile/J-Dulangi-Kanchana/publication/358098327_A_Data_Mining_Approach_for_Early_Prediction_Of_Academic_Performance_of_Students/links/63817b5bc2cb154d29299635/A-Data-Mining-Approach-for-Early-Prediction-Of-Academic-Performance-of-Students.pdf)
 
-<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>The Impact of Credits on Student Performance: A Case Study of Sri Lanka </b></p><p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"> IEEE Integrated STEM Education Conference 2023 | John Hopkins University, USA </p> 
+<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>The Impact of Credits on Student Performance: A Case Study of Sri Lanka </b></p>
+<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"> J.Dulangi Kanchana, Gayashan Amarasinghe, Vishaka Nanayakkara, Amal Shehan Perera </p>
+<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"> IEEE Integrated STEM Education Conference 2023 | John Hopkins University, USA </p> 
 [Go to the article](https://www.researchgate.net/publication/369173347_The_Impact_of_Credits_on_Student_Performance_A_Case_Study_of_Sri_Lanka)
 
-<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>IoT and Machine Learning Based Efficient Garbage Management System for Apartment Complex and Shopping Malls </b></p><p style="font-size:9pt; font-color:black;">  International Conference on Information Technology Research 2021 | University of Moratuwa, Sri Lanka </p> 
+<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>IoT and Machine Learning Based Efficient Garbage Management System for Apartment Complex and Shopping Malls </b></p>
+<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;">MRM Rilfi,J.D Kanchana </p>
+<p style="font-size:9pt; font-color:black;">  International Conference on Information Technology Research 2021 | University of Moratuwa, Sri Lanka </p> 
 
-   
+   MRM Rilfi,J.D Kanchana
 #### Extended Abstracts
 
-<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>An Evaluation of the Effect of Mean Temperature and Rainfall Levels on the Mosquito Population in Seoul, South Korea </b></p><p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"> International Conference on Innovation and Emerging Technologies 2022| University of Sri Jayawardenepura, Sri Lanka </p>
+<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>An Evaluation of the Effect of Mean Temperature and Rainfall Levels on the Mosquito Population in Seoul, South Korea </b></p>
+<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"> MRM Rilfi,J.D Kanchana </p>
+<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"> International Conference on Innovation and Emerging Technologies 2022| University of Sri Jayawardenepura, Sri Lanka </p>
 [Go to the article](https://www.researchgate.net/publication/365759780_An_Evaluation_of_the_Effect_of_Mean_Temperature_and_Rainfall_Levels_on_the_Mosquito_Population_in_Seoul_South_Korea)
    
 #### Journals
 
-<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>A Set of Essentials for Online Learning : CSE-SET </b></p><p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"> Discover Education | 2023 </p>
+<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>A Set of Essentials for Online Learning : CSE-SET </b></p>
+<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"> J.Dulangi Kanchana, Gayashan Amarasinghe, Vishaka Nanayakkara, Amal Shehan Perera </p>
+<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"> Discover Education | 2023 </p>
 [Go to the article](https://link.springer.com/article/10.1007/s44217-023-00037-y)
