@@ -47,13 +47,13 @@ towards my organisation's success.</p>
 
   <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>A Data Mining Approach for Early Prediction Of Academic Performance of Students </b></p><p style="font-size:9pt; font-color:black;"> IEEE TALE 2021| Central China Normal University, China </p>
     <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>The Impact of Credits on Student Performance: A Case Study of Sri Lanka </b></p><p style="font-size:9pt; font-color:black;"> IEEE Integrated STEM Education Conference 2023 | John Hopkins University, USA </p> 
-   <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>The Impact of Credits on Student Performance: A Case Study of Sri Lanka </b></p><p style="font-size:9pt; font-color:black;"> IEEE Integrated STEM Education Conference 2023 | John Hopkins University, USA </p> 
+   <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>IoT and Machine Learning Based Efficient Garbage Management System for Apartment Complex and Shopping Malls </b></p><p style="font-size:9pt; font-color:black;">  International Conference on Information Technology Research 2021 | University of Moratuwa, Sri Lanka </p> 
    
 #### Extended Abstracts
 
-  <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>A Data Mining Approach for Early Prediction Of Academic Performance of Students </b></p><p style="font-size:9pt; font-color:black;"> IEEE TALE 2021| Central China Normal University, China </p>
+  <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>An Evaluation of the Effect of Mean Temperature and Rainfall Levels on the Mosquito Population in Seoul, South Korea </b></p><p style="font-size:9pt; font-color:black;"> International Conference on Innovation and Emerging Technologies 2022| University of Sri Jayawardenepura, Sri Lanka </p>
   
    
 #### Journals
 
-  <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>A Data Mining Approach for Early Prediction Of Academic Performance of Students </b></p><p style="font-size:9pt; font-color:black;"> IEEE TALE 2021| Central China Normal University, China </p>
+  <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;"><b>A Set of Essentials for Online Learning : CSE-SET </b></p><p style="font-size:9pt; font-color:black;"> Discover Education | 2023 </p>
