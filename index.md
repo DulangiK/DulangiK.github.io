@@ -59,7 +59,7 @@ towards my organisation's success.</p>
 <p style="font-size:9pt; font-color:black;"><b>IoT and Machine Learning Based Efficient Garbage Management System for Apartment Complex and Shopping Malls </b></p>
 <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;">MRM Rilfi,J.D Kanchana </p>
 <p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;">  International Conference on Information Technology Research 2021 </p> 
-<p style="font-size:9pt; font-color:black;margin : 0; padding-top:0;">University of Moratuwa, Sri Lanka </p> 
+<p style="font-size:9pt; font-color:black;">University of Moratuwa, Sri Lanka </p> 
 
 
 #### Extended Abstracts
