@@ -110,7 +110,7 @@ towards my organisation's success.</p>
 
 
 <br>
-<center><img src="/assets/img/fyp.png" width="650" height="280"></center>
+<center><img src="/assets/img/fyp.png" width="700" height="280"></center>
 <br>
 
 ---
@@ -125,7 +125,7 @@ towards my organisation's success.</p>
 
 
 <br>
-<center><img src="/assets/img/wine-poster.jpg" width="1000" height="500"></center>
+<center><img src="/assets/img/wine-poster.jpg" width="1200" height="500"></center>
 <br>
 
 ---
@@ -141,7 +141,7 @@ towards my organisation's success.</p>
 
 
 <br>
-<center><img src="/assets/img/wine-poster.jpg" width="800" height="500"></center>
+<center><img src="/assets/img/biogas-prototype-design.png" width="800" height="500"></center>
 <br>
 
 ---
