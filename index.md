@@ -53,7 +53,7 @@ towards my organisation's success.</p>
   <br>
   <a href="https://uom.lk/staff/Nanayakkara.DEWV" target="_blank" style="color: orange"><b>co-supervisor</b> Ms.Vishaka Nanayakkara</a>
   <br>
-  <a href="https://au.linkedin.com/in/gayashanna?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank" style="color: pink"><b>co-supervisor</b> Dr.Gayashan Amarasinghe</a>
+  <a href="https://au.linkedin.com/in/gayashanna?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank" style="color: orange"><b>co-supervisor</b> Dr.Gayashan Amarasinghe</a>
 
 </ul>
 
