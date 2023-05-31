@@ -51,9 +51,9 @@ towards my organisation's success.</p>
 <ul>
   <a href="https://uom.lk/staff/Perera.AS" target="_blank" style="color: purple"><b>Chief supervisor</b> Dr.Amal Shehan Perera</a>
   &nbsp
-  <a href="https://uom.lk/staff/Nanayakkara.DEWV" target="_blank" style="color: purple"><b>co-supervisor</b> Ms.Vishaka Nanayakkara</a>
+  <a href="https://uom.lk/staff/Nanayakkara.DEWV" target="_blank" style="color: orange"><b>co-supervisor</b> Ms.Vishaka Nanayakkara</a>
   &nbsp
-  <a href="https://au.linkedin.com/in/gayashanna?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank" style="color: purple"><b>co-supervisor</b> Dr.Gayashan Amarasinghe</a>
+  <a href="https://au.linkedin.com/in/gayashanna?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank" style="color: pink"><b>co-supervisor</b> Dr.Gayashan Amarasinghe</a>
 
 </ul>
 
