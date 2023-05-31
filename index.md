@@ -92,7 +92,7 @@ towards my organisation's success.</p>
 
 
 <br>
-<center><img src="/assets/img/mosq_boxplot.png" width="650" height="260"></center>
+<center><img src="/assets/img/mosq_boxplot.png" width="650" height="360"></center>
 <br>
 
 ---
@@ -110,7 +110,7 @@ towards my organisation's success.</p>
 
 
 <br>
-<center><img src="/assets/img/fyp.png" width="650" height="300"></center>
+<center><img src="/assets/img/fyp.png" width="650" height="280"></center>
 <br>
 
 ---
@@ -125,8 +125,26 @@ towards my organisation's success.</p>
 
 
 <br>
+<center><img src="/assets/img/wine-poster.jpg" width="1000" height="500"></center>
+<br>
+
+---
+
+#### First Year Hardware Group Project
+
+#### Automated Bio Gas system
+
+<ul>
+  <li><p style="font-size:10pt; font-color:black">Automated a manual bio-gas system processes, used ATmega 32A and atmel studio, and making of light sensors. </p></li>
+
+</ul>
+
+
+<br>
 <center><img src="/assets/img/wine-poster.jpg" width="800" height="500"></center>
 <br>
+
+---
 
 #### Education
 
