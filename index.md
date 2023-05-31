@@ -47,6 +47,27 @@ towards my organisation's success.</p>
 <center><img src="/assets/img/Features.png" width="500" height="290"></center>
 <br>
 
+#### Supervision
+<ul>
+  <a href="https://uom.lk/staff/Perera.AS" target="_blank"><b>Chief supervisor</b> Dr.Amal Shehan Perera</a>
+  
+  <a href="https://uom.lk/staff/Nanayakkara.DEWV" target="_blank"><b>co-supervisor</b> Ms.Vishaka Nanayakkara</a>
+
+  <a href="https://au.linkedin.com/in/gayashanna?original_referer=https%3A%2F%2Fwww.google.com%2F" target="_blank"><b>co-supervisor</b> Dr.Gayashan Amarasinghe</a>
+
+</ul>
+
+
+\textbf{Chief supervisor:}
+\href{https://uom.lk/staff/Perera.AS}{ \textcolor{orange}{Dr.Amal Shehan Perera}}
+
+\textbf{co-supervisor:}
+\href{https://uom.lk/staff/Nanayakkara.DEWV}{ \textcolor{accent}{Ms.Vishaka Nanayakkara}}
+
+\textbf{co-supervisor:}
+\href{https://au.linkedin.com/in/gayashanna?original_referer=https%3A%2F%2Fwww.google.com%2F}{ \textcolor{accent}{Dr.Gayashan Amarasinghe}}
+
+
 ---
 
 #### Deep Learning
