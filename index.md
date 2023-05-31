@@ -141,7 +141,7 @@ towards my organisation's success.</p>
 
 
 <br>
-<center><img src="/assets/img/biogas-prototype-design.png" width="800" height="500"></center>
+<center><img src="/assets/img/biogas-prototype-design.png" width="600" height="300"></center>
 <br>
 
 ---
