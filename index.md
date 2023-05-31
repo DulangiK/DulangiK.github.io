@@ -96,6 +96,22 @@ towards my organisation's success.</p>
 <br>
 
 ---
+#### Final Year Undergraduate Project
+
+#### Integrated Platform for Motor Traffic Management and Road Safety Assurance
+
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/DulangiK/FYP_project)
+
+<ul>
+  <li><p style="font-size:10pt; font-color:black">I designed and developed a prototype of the central platform of an intelligent vehicle management system attained to the highly available state of the system and developed a novel communication protocol to establish communication between the other modules.Also embedded kerberos security protocol to secure the location data collected from the end users (stakeholders).This system also has data science and analytics module that utilized genetic algorithms and support vector machines (SVM) to identify anomalous driving behaviors that may lead to accidents in near future.</p></li>
+
+</ul>
+
+
+<br>
+<center><img src="/assets/img/mosq_boxplot.png" width="650" height="360"></center>
+<br>
 
 
 
