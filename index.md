@@ -58,16 +58,6 @@ towards my organisation's success.</p>
 </ul>
 
 
-\textbf{Chief supervisor:}
-\href{https://uom.lk/staff/Perera.AS}{ \textcolor{orange}{Dr.Amal Shehan Perera}}
-
-\textbf{co-supervisor:}
-\href{https://uom.lk/staff/Nanayakkara.DEWV}{ \textcolor{accent}{Ms.Vishaka Nanayakkara}}
-
-\textbf{co-supervisor:}
-\href{https://au.linkedin.com/in/gayashanna?original_referer=https%3A%2F%2Fwww.google.com%2F}{ \textcolor{accent}{Dr.Gayashan Amarasinghe}}
-
-
 ---
 
 #### Deep Learning
