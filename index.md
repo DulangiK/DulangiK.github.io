@@ -24,11 +24,21 @@ towards my organisation's success.</p>
 
 #### Business Goals
 <ul>
-  <li><p style="font-size:10pt; font-color:black">Handling class imbalance problem for multi class based classification using a novel method.</p></li>
+  <li><p style="font-size:10pt; font-color:black">Handling class imbalance problem for multi class based classification using a novel method</p></li>
   
-  <li><p style="font-size:10pt; font-color:black">Used explainable AI to extract important features for stakeholders.</p></li>
+  <li><p style="font-size:10pt; font-color:black">Used explainable AI to extract important features for stakeholders</p></li>
 
-  <li><p style="font-size:10pt; font-color:black">Achieved best state of the art accuracy as per existing literature of 100%.</p></li>
+  <li><p style="font-size:10pt; font-color:black">Achieved best state of the art accuracy as per existing literature of 100%</p></li>
+
+</ul>
+
+#### Technical Implementation
+<ul>
+  <li><p style="font-size:10pt; font-color:black">Created synthetic data with SMOTE and hybrid SMOTE techniques</p></li>
+  
+  <li><p style="font-size:10pt; font-color:black">Identified best three ML models and build an ensemble model from those</p></li>
+
+  <li><p style="font-size:10pt; font-color:black">Extracted rules from decision tree, feature importance with permutation and random forest</p></li>
 
 </ul>
 
