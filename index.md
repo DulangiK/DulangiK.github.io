@@ -29,7 +29,7 @@ towards my organisation's success.</p>
 
 
 <br>
-<center><img src="/assets/img/GAN.png" width="700" height="460"></center>
+<center><img src="/assets/img/GAN.png" width="500" height="260"></center>
 <br>
 
 ---
@@ -47,7 +47,7 @@ towards my organisation's success.</p>
 
 
 <br>
-<center><img src="/assets/img/mosq_boxplot.png" width="500" height="260"></center>
+<center><img src="/assets/img/mosq_boxplot.png" width="700" height="460"></center>
 <br>
 
 ---
