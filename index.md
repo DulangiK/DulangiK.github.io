@@ -34,7 +34,7 @@ towards my organisation's success.</p>
 
 
 <br>
-<center><img src="/assets/img/GAN.png" width="500" height="260"></center>
+<center><img src="/assets/img/Features.png" width="500" height="260"></center>
 <br>
 
 ---
