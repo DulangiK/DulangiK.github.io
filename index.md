@@ -110,7 +110,7 @@ towards my organisation's success.</p>
 
 
 <br>
-<center><img src="/assets/img/fyp.png" width="700" height="280"></center>
+<center><img src="/assets/img/fyp.png" width="600" height="260"></center>
 <br>
 
 ---
