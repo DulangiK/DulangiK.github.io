@@ -125,7 +125,7 @@ towards my organisation's success.</p>
 
 
 <br>
-<center><img src="/assets/img/wine-poster.jpg" width="650" height="300"></center>
+<center><img src="/assets/img/wine-poster.jpg" width="800" height="500"></center>
 <br>
 
 #### Education
