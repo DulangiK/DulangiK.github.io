@@ -110,7 +110,7 @@ towards my organisation's success.</p>
 
 
 <br>
-<center><img src="/assets/img/fyp.png" width="600" height="200"></center>
+<center><img src="/assets/img/fyp.png" width="600" height="260"></center>
 <br>
 
 ---
@@ -125,7 +125,7 @@ towards my organisation's success.</p>
 
 
 <br>
-<center><img src="/assets/img/wine-poster.jpg" width="1200" height="500"></center>
+<center><img src="/assets/img/wine-poster.jpg" width="1200" height="400"></center>
 <br>
 
 ---
