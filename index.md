@@ -47,7 +47,7 @@ towards my organisation's success.</p>
 
 
 <br>
-<center><img src="/assets/img/mosq_boxplot.png" width="700" height="380"></center>
+<center><img src="/assets/img/mosq_boxplot.png" width="700" height="360"></center>
 <br>
 
 ---
