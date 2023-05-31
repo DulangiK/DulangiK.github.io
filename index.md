@@ -113,7 +113,20 @@ towards my organisation's success.</p>
 <center><img src="/assets/img/fyp.png" width="650" height="300"></center>
 <br>
 
+---
+#### Group Assignment for IN 4400 Data Mining and Data Warehousing subject module
 
+#### Classifying quality of red wine based on physio chemical properties
+
+<ul>
+  <li><p style="font-size:10pt; font-color:black">The project was to identify the best set of features for wine classification. Here the data was pre-processing and various machine learning models were applied in RapidMiner.</p></li>
+
+</ul>
+
+
+<br>
+<center><img src="/assets/img/wine-poster.jpg" width="650" height="300"></center>
+<br>
 
 #### Education
 
